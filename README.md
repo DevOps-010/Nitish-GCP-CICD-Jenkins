@@ -6,7 +6,6 @@ This repository contains the code and configuration files for setting up an auto
 
 This project demonstrates how to automate the deployment of infrastructure on GCP using Jenkins and Terraform. The pipeline automatically provisions and manages GCP resources based on changes to the Terraform configuration files stored in the GitHub repository.
 
-Video Tutorial :   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/14x4XwEwiDs)
 
 ## Features
 
@@ -31,7 +30,7 @@ To replicate this setup in your own environment, follow these steps:
 
 To use this project:
 
-1. Clone the repository: `git clone https://github.com/vishal-bulbule/gcp-tf-jenkin.git`
+1. Clone the repository
 2. Configure Jenkins and Terraform according to your requirements.
 3. Customize the Terraform configuration files and Jenkins pipeline script to match your infrastructure and deployment workflow.
 4. Run the pipeline in Jenkins to deploy your infrastructure on Google Cloud Platform.
